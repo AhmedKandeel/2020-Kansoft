@@ -6,6 +6,7 @@ You can find a very good reference to Github flavoured markdown reference in [th
 
 Examples of things to include are the following.
 
+
 ## Summary
 
 **Category:** Hackathon Category
