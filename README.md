@@ -12,6 +12,7 @@ The purpose of this repository is to provide a sample which shows how to structu
 ## Entry Submission Requirements 
 
 All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on **Saturday  February 29th 2020 at 8PM EST**. The modules should be based on [Sitecore 9.3 (Initial Release)](https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/93/Sitecore_Experience_Platform_93_Initial_Release.aspx).
+ 
 
 **Failure to meet any of the requirements will result in automatic disqualification.** Please reach out to any of the organisers or judges if you require any clarification.
 
